@@ -1,5 +1,5 @@
-# OpenCV Microservice (This Project is currently under developement and being moved to an another open source repository where it will be used only as a microservice for other applications"
-
+# OpenCV Microservice 
+(This Project is currently under developement and being moved to an another open source repository where it will be used only as a microservice for other applications)
 A Spring Boot microservice that provides image processing and face detection capabilities using OpenCV.
 
 ## Features
